@@ -1,0 +1,15 @@
+{
+  "name": "cli-nodebr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha -reporter=nyan -w"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  },
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
